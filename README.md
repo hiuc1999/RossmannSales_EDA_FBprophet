@@ -1,4 +1,4 @@
-# RossmannStoreSales EDA & Sales Prediction by Fbprophet
+# RossmannStoreSales EDA & Sales Prediction
 
 <a href="https://www.linkedin.com/in/hiu-ching-lau-947501207">Visit my  LinkedIn profile</a>
 
